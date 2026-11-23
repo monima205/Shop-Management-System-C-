@@ -1,0 +1,16 @@
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\bin\Debug\ShopManagementSystem.exe.config
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\bin\Debug\ShopManagementSystem.exe
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\bin\Debug\ShopManagementSystem.pdb
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.AssemblyReference.cache
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.LoginForm.resources
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Properties.Resources.resources
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.GenerateResource.cache
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.CoreCompileInputs.cache
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.exe
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.pdb
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Properties.AdminDashboard.resources
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Properties.EmployeeDashboard.resources
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Properties.InvoiceForm.resources
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Properties.SaleDashboard.resources
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Properties.SaleHistory.resources
+G:\CSharp\ShopManagementSystem\ShopManagementSystem\obj\Debug\ShopManagementSystem.Product.resources
