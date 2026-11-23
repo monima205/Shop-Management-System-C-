@@ -3,7 +3,7 @@ namespace ShopManagementSystem.Properties
 {
     partial class EmployeeDashboard
     {
-        /// <summary>
+        /// <summary> 
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
