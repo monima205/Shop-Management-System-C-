@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ShopManagementSystem.Properties
+namespace ShopManagementSystem.Properties 
 {
     public partial class InvoiceForm : Form
     {
