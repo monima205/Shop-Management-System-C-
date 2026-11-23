@@ -1,6 +1,6 @@
 ﻿
 namespace ShopManagementSystem.Properties
-{
+{ 
     partial class AdminDashboard
     {
         /// <summary>
