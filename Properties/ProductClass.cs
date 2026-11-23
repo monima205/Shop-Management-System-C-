@@ -11,7 +11,7 @@ namespace ShopManagementSystem.Properties
         public string category { get; set; }
         public decimal price { get; set; }
         public int stock { get; set; }
-        public int quantity { get; set; }
+        public int quantity { get; set; } 
 
         string conStr = @"Data Source=(localdb)\MSSQLLocalDB;
                           Initial Catalog=S_ManagemntDB;
